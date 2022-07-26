@@ -1,9 +1,9 @@
-# B2cBackendKotlinDefault-Setting
+# RubyRestApiDefaultSetting
 ## Run
 
 ### Locally
 
 
 ```bash
-rails s
+docker-compose up --build
 ```
